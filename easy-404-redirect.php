@@ -4,7 +4,7 @@
   Plugin Name: Easy 404 Redirect
   Plugin URI: http://www.ninjapress.net/easy-404-redirect/
   Description: 404 redirect made easy.
-  Version: 1.0
+  Version: 1.1
   Author: Ninja Press
   Author URI: http://www.ninjapress.net
   License: GPL2
@@ -102,7 +102,7 @@ if (class_exists('Easy_404_Redirect')) {
 
       // Add the settings link to the plugins page
       function easy_404_redirect_settings_link($links) {
-         $settings_link = '<a href="tools.php?page=wp_easy_404_redirect">Settings</a>';
+         $settings_link = '<a href="options-general.php?page=wp_easy_404_redirect">Settings</a>';
          array_unshift($links, $settings_link);
          return $links;
       }

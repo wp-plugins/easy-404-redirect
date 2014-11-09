@@ -4,7 +4,7 @@ Donate link: https://ninjapress.net/
 Tags: 404 error, 404 redirect, redirection, page not found, redirect, 404
 Requires at least: 3.2
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Look at the frequently ask questions here and contact us for any information;
 1. Admin view
 
 == Changelog ==
+
+= 1.1 =
+Correct link to setting page
 
 = 1.0 =
 Initial revision
