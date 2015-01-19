@@ -12,6 +12,8 @@ Redirect all 404 errors to a specific page
 
 == Description ==
 
+[vimeo https://vimeo.com/116867375]
+
 Create automatic redirects for 404 traffic and don’t lose visitors. Suggest a 
 specific page when a visitor land on your wrong pages. Sometimes they make
  mistakes when write your url. Ensure your clients come always to your site!
